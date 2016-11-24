@@ -1,2 +1,2 @@
 hello
-#!/usr/bin/python27
+#!/usr/bin/python27#encoding:utf-8
